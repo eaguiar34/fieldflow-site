@@ -1,0 +1,11 @@
+id,name,duration
+A100,Mobilize,2
+A110,Demo & Clear,3
+A120,Excavation,5
+A130,Formwork,4
+A140,Rebar Install,3
+A150,Concrete Pour,1
+A160,Cure,3
+A170,Backfill,2
+A180,Paving,4
+A190,Punchlist,2
