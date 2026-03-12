@@ -1,0 +1,4 @@
+pred_id,succ_id,type,lag
+A100,A110,FS,0
+A110,A120,SS,2
+A120,A130,FF,0
